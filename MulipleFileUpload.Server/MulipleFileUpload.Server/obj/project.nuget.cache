@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0gdyFer86z8F8WRXS/TifD3gv5pEPGO5sbXBDVoLBQuCV0HGfV76LhN+KYznE1NM3jkS9z6fL9DfQAwp8nlzQ==",
+  "success": true,
+  "projectFilePath": "C:\\workdir\\ASP.NetCoreMultipleFileUpload\\MulipleFileUpload.Server\\MulipleFileUpload.Server\\MulipleFileUpload.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shinn\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
